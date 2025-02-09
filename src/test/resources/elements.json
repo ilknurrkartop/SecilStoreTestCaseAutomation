@@ -1,0 +1,21 @@
+{
+  "girisYapButton": {
+    "xpath": "//a[span[contains(text(),'Giriş Yap')]]"
+  },
+  "emailInput": {
+  "xpath": "//input[@name='email']"
+  },
+  "passwordInput": {
+    "xpath": "//input[@name='password']"
+  },
+  "girisButton": {
+    "xpath": "//button[contains(text(),'Giriş')]"
+  },
+  "koleksiyonLink": {
+    "xpath": "//a[contains(text(),'Koleksiyon')]"
+  },
+  "tumUrunlerLink": {
+    "xpath": "//a[contains(text(),'Tüm Ürünler')]"
+  }
+
+}

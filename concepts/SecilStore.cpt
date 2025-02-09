@@ -1,0 +1,20 @@
+
+
+# Open browser
+* Open the browser and navigate to SecilStore homepage
+
+# Enter your email and password
+* Click on element "emailInput", clear it and type "ilknurrkartop@gmail.com"
+* Click on element "passwordInput", clear it and type "Test123*"
+
+# Login button is clicked
+* Click on element "girisButton"
+
+# Click on the login button
+* Click on element "girisYapButton"
+
+# Collection is clicked
+* Click on element "koleksiyonLink"
+
+# All products in the collection are clicked
+* Click on element "tumUrunlerLink"
